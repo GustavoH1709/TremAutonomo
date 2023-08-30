@@ -1,0 +1,7 @@
+Historias de Usuario
+
+
+Como programador, eu quero que no trilho infinito quando o usuário digitar os comandos direita e direita a posição do trem inicial seja 0 e final 2
+quero que quando o usuário digitar os comando esquerda a posição inicial seja 0 e a final seja -1, quero que quando o usuário digitar
+esquerda, direita,direita,direita,direita e esquerda a posição inicial seja 0 e a final seja 2 e que ele suporte o trilho númerico infinito de −M,…,−2,−1,0,1,2,…,N.No caso do trilho finito o usuário deve digitar os limites do trem e a posição inicial que o trem se encontra. Ao final de todo o processo o usuário deve informar uma lista completa de todos os comandos implementados 
+não extrapolando os limites.
